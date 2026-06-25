@@ -204,7 +204,7 @@ The Student Performance & Result Analytics project demonstrates the practical ap
 
 ## Author
 
-**Sathaniya M**
+**Preethi Reno.S**
 
-B.Sc Computer Science Student
+B.Sc Artifical Intelligence
 
